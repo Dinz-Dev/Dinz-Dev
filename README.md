@@ -1,6 +1,8 @@
 
 # 🧑🏻‍💻 | Dinz-Dev
 
+---
+
 **`Progamador FullStack - Junior`** 
 
  Apaixonado por tecnologia, criação de projetos e aprendizado contínuo. Desenvolvedor FullStack em início de carreira, focado em construir aplicações modernas, funcionais e bem estruturadas. Tenho interesse em front-end, back-end e tudo que envolve transformar ideias em código.
@@ -82,7 +84,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
 />
 
-
+---
 
 
 
