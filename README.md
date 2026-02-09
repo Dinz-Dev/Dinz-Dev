@@ -78,7 +78,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 <img 
     aling="left"
     alt="Vita"
-    title="Vita"
+    title="Vite"
     width="50x"
     style=" "
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
